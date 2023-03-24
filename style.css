@@ -1,0 +1,34 @@
+/* A6CFD5 */
+/* 34344A */
+/* FCF5C7 */
+/* 645E9D */
+/* B8B8AA */
+
+body{
+    font-family: Arial, sans-serif;
+    background-color:#A6CFD5 ;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #A6CFD5;
+    height: 2rem;
+}
+
+img{
+    width: 59rem;
+    height: 51rem;
+    border-radius: 100%;
+}
+
+#logo{
+    color: white;
+    /* margin: 5rem 4rem 4rem 4rem; */
+     padding: 0.5rem 5.5rem 5.5rem 5.5rem; 
+}
+
+.image-container{
+    text-align: center;
+}
